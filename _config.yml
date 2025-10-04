@@ -1,0 +1,15 @@
+title: "Ludovica's Cybersecurity Blog"
+description: "A personal blog for research projects and homework assignments in cybersecurity."
+author: "Ludovica"
+theme: minima
+markdown: kramdown
+
+# URL del sito
+url: "https://tuo-username.github.io"
+
+# Impostazioni sociali (facoltative)
+github_username: tuo-username
+
+# Abilita dark mode
+minima:
+  skin: dark
