@@ -18,5 +18,5 @@ In short, statistics turns raw data into actionable insights, helping cybersecur
 
 ---
 
-✍️ *Published by Ludovica*  
-📅 *October 4, 2025*
+ *Published by Ludovica*  
+ *October 4, 2025*

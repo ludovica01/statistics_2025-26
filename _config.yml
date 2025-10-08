@@ -5,10 +5,10 @@ theme: minima
 markdown: kramdown
 
 # URL del sito
-url: "https://tuo-username.github.io"
+url: "https://ludovica01.github.io/statistics_2025-26/"
 
 # Impostazioni sociali (facoltative)
-github_username: tuo-username
+github_username: ludovica01
 
 # Abilita dark mode
 minima:
