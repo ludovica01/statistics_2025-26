@@ -1,8 +1,22 @@
-
-/* goustifica il testo */
+/* giustifica il testo e aggiunge spazio tra i paragrafi */
 .post-content p {
   text-align: justify;
+  margin-bottom: 1em;
 }
+
+/* Aggiunge spazio sopra e sotto le immagini centrali */
+.center-image {
+    display: block;
+    margin: 20px auto; /* 20px sopra e sotto, centrato orizzontalmente */
+    max-width: 700px;   /* opzionale: limita la larghezza */
+}
+
+/* Aggiunge spazio tra titoli e paragrafi sottostanti */
+h2, h3 {
+    margin-top: 1.5em;
+    margin-bottom: 0.75em;
+}
+
 
 
 /* per elenchi */
