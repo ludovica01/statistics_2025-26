@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is Statistics, and Why Can It Be Useful for Cybersecurity?"
-date: 2025-10-04
+date: 2025-10-04 14:30:00 +01:00
 author: Ludovica
 ---
 
